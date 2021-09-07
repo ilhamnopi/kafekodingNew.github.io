@@ -122,6 +122,8 @@ section.section-aboutUs .right-about h4 {
 
 section.section-aboutUs .right-about p {
   color: #68738b;
+  line-height: 28px;
+  font-size: 18px;
 }
 
 section.section-aboutUs .left-about .img-box {

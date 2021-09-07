@@ -121,6 +121,8 @@ section.section-aboutUs {
     }
     p {
       color: map-get($color-pallete, "SubHeading");
+      line-height: 28px;
+      font-size: 18px;
     }
   }
   .left-about {
