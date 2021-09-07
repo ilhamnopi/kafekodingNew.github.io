@@ -201,7 +201,7 @@ section.btn-cta-box-bottom a.btn-contact-us {
 }
 
 footer {
-  border-radius: 31px 31px 0px 0px;
+  border-radius: 31px 31px 0px 0px !important;
   background-color: #14274e;
   padding: 70px 0px 100px;
   position: relative;
