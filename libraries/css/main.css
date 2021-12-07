@@ -48,6 +48,32 @@ section.navbar-section ul li.nav-item a:hover {
   color: #fdb827 !important;
 }
 
+section.navbar-section .nest-button a.login {
+  color: #14274e;
+  font-family: "poppins-semibold";
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  padding: 8px 15px;
+}
+
+section.navbar-section .nest-button a.login:hover {
+  color: #ffb005;
+}
+
+section.navbar-section .nest-button a.btn-signup {
+  font-size: 16px !important;
+  color: #fff;
+  padding: 8px 20px;
+  border-radius: 10px;
+  background-color: #14274e;
+}
+
+section.navbar-section .nest-button a.btn-signup:hover {
+  background-color: #ffb005;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
 .title {
   position: relative;
 }

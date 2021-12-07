@@ -54,6 +54,30 @@ section.navbar-section {
       }
     }
   }
+  .nest-button {
+    a.login {
+      color: #14274e;
+      font-family: "poppins-semibold";
+      transition: 0.3s;
+      padding: 8px 15px;
+
+      &:hover {
+        color: map-get($color-pallete, "Primary-btn-hover");
+      }
+    }
+    a.btn-signup {
+      font-size: 16px !important;
+      color: #fff;
+      padding: 8px 20px;
+      border-radius: 10px;
+      background-color: #14274e;
+
+      &:hover {
+        background-color: map-get($color-pallete, "Primary-btn-hover");
+        transition: 0.3s;
+      }
+    }
+  }
 }
 
 .title {
